@@ -1,0 +1,5 @@
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Queues\Queues\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Queues\Queues\bin\Debug\Queues.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Queues\Queues\obj\Debug\Queues.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Queues\Queues\obj\Debug\Queues.pdb
