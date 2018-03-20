@@ -1,0 +1,5 @@
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Pallendromes\Pallendromes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Pallendromes\Pallendromes\bin\Debug\Pallendromes.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Pallendromes\Pallendromes\bin\Debug\Pallendromes.pdb
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Pallendromes\Pallendromes\obj\Debug\Pallendromes.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Pallendromes\Pallendromes\obj\Debug\Pallendromes.pdb
