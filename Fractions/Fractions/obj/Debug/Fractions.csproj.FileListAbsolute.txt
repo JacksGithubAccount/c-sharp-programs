@@ -1,0 +1,5 @@
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Fractions\Fractions\bin\Debug\Fractions.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Fractions\Fractions\bin\Debug\Fractions.pdb
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Fractions\Fractions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Fractions\Fractions\obj\Debug\Fractions.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\Fractions\Fractions\obj\Debug\Fractions.pdb
