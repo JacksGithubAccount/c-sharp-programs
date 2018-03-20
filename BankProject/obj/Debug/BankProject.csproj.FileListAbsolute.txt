@@ -1,0 +1,5 @@
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\BankProject\BankProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\BankProject\BankProject\bin\Debug\BankProject.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\BankProject\BankProject\bin\Debug\BankProject.pdb
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\BankProject\BankProject\obj\Debug\BankProject.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\BankProject\BankProject\obj\Debug\BankProject.pdb
