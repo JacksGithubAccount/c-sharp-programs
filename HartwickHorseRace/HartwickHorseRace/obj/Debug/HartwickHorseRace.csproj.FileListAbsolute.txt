@@ -1,0 +1,5 @@
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\HartwickHorseRace\HartwickHorseRace\bin\Debug\HartwickHorseRace.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\HartwickHorseRace\HartwickHorseRace\bin\Debug\HartwickHorseRace.pdb
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\HartwickHorseRace\HartwickHorseRace\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\HartwickHorseRace\HartwickHorseRace\obj\Debug\HartwickHorseRace.exe
+C:\Users\Zao\Documents\Visual Studio 2008\Projects\HartwickHorseRace\HartwickHorseRace\obj\Debug\HartwickHorseRace.pdb
